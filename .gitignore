@@ -1,0 +1,12 @@
+.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+userdata/
+Source/userdata/
+Installation/dist/
+Installation/build/
+Installation/*.spec
+Source/screenshots/
+preview_*.png
+Source/tests/media/*.mp4
